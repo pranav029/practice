@@ -1,3 +1,4 @@
+//segment tree implementation
 #include<bits/stdc++.h>
 #define ll long long int
 #define loop(i,n,a) for(int i=a;i<n;i++)
